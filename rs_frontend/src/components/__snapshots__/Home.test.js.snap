@@ -1,0 +1,95 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="card"
+  >
+    <div
+      class="card_body"
+    >
+      <img
+        alt="house"
+        class="card_image"
+      />
+      <h6
+        class="card_title"
+      >
+         
+        <span
+          style="font-size: 15px; color: blue;"
+        />
+      </h6>
+      <div
+        class="card_description"
+      >
+        Property Id:  
+      </div>
+      <div
+        class="card_description"
+      >
+        Rental For:  
+      </div>
+      <div
+        class="card_description"
+      >
+        Rate: $ per hour
+      </div>
+    </div>
+    <a
+      href="/undefined"
+    >
+      <button
+        class="card_btn"
+      />
+    </a>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`matches snapshot with logo 1`] = `
+<DocumentFragment>
+  <div
+    class="card"
+  >
+    <div
+      class="card_body"
+    >
+      <img
+        alt="house"
+        class="card_image"
+      />
+      <h6
+        class="card_title"
+      >
+         
+        <span
+          style="font-size: 15px; color: blue;"
+        />
+      </h6>
+      <div
+        class="card_description"
+      >
+        Property Id:  
+      </div>
+      <div
+        class="card_description"
+      >
+        Rental For:  
+      </div>
+      <div
+        class="card_description"
+      >
+        Rate: $ per hour
+      </div>
+    </div>
+    <a
+      href="/undefined"
+    >
+      <button
+        class="card_btn"
+      />
+    </a>
+  </div>
+</DocumentFragment>
+`;
